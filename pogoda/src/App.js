@@ -78,6 +78,50 @@ function App() {
         >
           Łódź
         </a>
+    
+    
+        <br></br><br></br>
+         <a
+        className="App-link"
+        href="https://www.pogodairadar.pl/pogoda/gdynia/14364991"
+        target="_blank"
+        rel="noopener noreferrer"
+        >
+          Gdynia
+        </a>
+
+
+        <br></br><br></br>
+         <a
+        className="App-link"
+        href="https://www.pogodairadar.pl/pogoda/jastrzebie-zdroj/8967923"
+        target="_blank"
+        rel="noopener noreferrer"
+        >
+          Jastrzębie-Zdrój
+        </a>
+
+
+        <br></br><br></br>
+         <a
+        className="App-link"
+        href="https://www.pogodairadar.pl/pogoda/poznan/11379413"
+        target="_blank"
+        rel="noopener noreferrer"
+        >
+          Poznań
+        </a>
+
+
+        <br></br><br></br>
+         <a
+        className="App-link"
+        href="https://www.pogodairadar.pl/pogoda/wroclaw/5586390"
+        target="_blank"
+        rel="noopener noreferrer"
+        >
+          Wrocław
+        </a>
 
         </header>
     </div>
